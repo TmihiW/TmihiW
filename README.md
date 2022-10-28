@@ -22,8 +22,8 @@
 # Abdulkadir Fındık
 
 > Github [TmihiW](https://github.com/TmihiW).
-### Profile
+### Stands For
 
-| Name | Nickname | Surname |
-|--|--|--|
-| Abdulkadir | TmihiW | Fındık |
+| The | Most | Impossible | Human | In | World |
+|--|--|--|--|--|--|
+| T | M | I | H | I | W|
