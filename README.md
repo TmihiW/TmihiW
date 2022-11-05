@@ -2,9 +2,9 @@
 <h1 align="center">👋 Hi, I’m TmihiW</h1>
 <h3 align="center">A newbie backend learner from Turkey</h3>
 
-- 👀 I’m interested in tech
+- 👀 I’m interested in **tech**
 
-- 🌱 I’m currently learning laravel
+- 🌱 I’m currently learning [laravel](https://laravel.com/)
 
 - 📫 How to reach me **kadirfindik3871@gmail.com**
 
