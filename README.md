@@ -2,13 +2,11 @@
 <h1 align="center">👋 Hi, I’m TmihiW</h1>
 <h3 align="center">A newbie backend learner from Turkey</h3>
 
-- 👀 I’m interested in ...
+- 👀 I’m interested in tech
 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning laravel
 
-- 💞️ I’m looking to collaborate on ...
-
-- 📫 How to reach me ...
+- 📫 How to reach me **kadirfindik3871@gmail.com**
 
 - ![Github stats](https://github-readme-stats.vercel.app/api?username=TmihiW)
 <h3 align="left">Connect with me:</h3>
