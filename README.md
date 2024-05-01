@@ -49,4 +49,4 @@
 |--|--|--|--|--|--|
 | T | M | I | H | I | W|
 
-[link](Librarify/README.md)
+[link](Libraryfy/README.md)
