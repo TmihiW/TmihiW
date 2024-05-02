@@ -43,7 +43,7 @@
 # Abdulkadir Fındık
 
 > Github [TmihiW](https://github.com/TmihiW).
-### Stands For
+### Stands For 174 contributions in 2023 (check it out)
 
 | The | Most | Impossible | Human | In | World |
 |--|--|--|--|--|--|
