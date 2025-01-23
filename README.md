@@ -1,5 +1,4 @@
 <a href="#"><img width="100%" height="auto" src="https://camo.githubusercontent.com/0153f080b4e186ab0b78d4e75ee2201870d8c398d38abe1809f805babf38814e/68747470733a2f2f692e696d6775722e636f6d2f716f4d657554712e706e67" height="175px"/></a>
-<a href="#"><img width="100%" height="auto" src="https://raw.githubusercontent.com/TmihiW/Metin2PS/refs/heads/main/heartPumpBanner.gif" height="175px"/></a>
 <h1 align="center">👋 Hi, I’m TmihiW</h1>
 <h3 align="center">A lazer beam focused fast learner from Turkey</h3>
 
