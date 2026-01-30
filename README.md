@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **image processing**
   <!--- [laravel](https://laravel.com/)---> 
-- 📫 How to reach me **kadirfindik3871@gmail.com**
+- 📫 How to reach me **tmihiw3871@gmail.com**
 
 - ![Github stats](https://github-readme-stats.vercel.app/api?username=TmihiW)
 <h3 align="left">Connect with me:</h3>
